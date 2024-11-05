@@ -136,7 +136,7 @@ $total_assessments = $row['count'];
                   <div class="aboutInfo">
                      <h3>User Name</h3>
                      <p><strong>NPM:</strong> 123123123</p>
-                     <p>Saya Adalah mahasiswa akhir Teknik Informatika dari Universitas Indraprasta PGRI....(Lanjutin aja To ada di Home.php Line 139).</p>
+                     <p>Saya Adalah mahasiswa akhir Teknik Informatika....(Lanjutin aja ada di Home.php Line 139).</p>
                   </div>
                </div>
             </div>

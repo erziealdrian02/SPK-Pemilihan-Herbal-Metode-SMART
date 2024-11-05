@@ -1,7 +1,7 @@
 <?php
 $s = "localhost";
 $u = "root";
-$p = "";
+$p = "123";
 $db = "spk_herbal_smart";
 
 $dbcon = mysqli_connect($s, $u, $p, $db);
